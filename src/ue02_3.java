@@ -3,7 +3,7 @@ import libraries.Out;
 
 public class ue02_3 {
     public static void main(String[] args) {
-        // circleSector= Math.PI*Math.sqrt(4)*(90/360);
+        // circleSector= Math.PI*Math.sqrt(4)*(90/360); - not needed
         // YmaxCircle=4;
         // XmaxCircle=4;
         Out.print("Guessing Game - Is your point inside the green square? \n");
